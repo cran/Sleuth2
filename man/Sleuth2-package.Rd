@@ -17,6 +17,6 @@ Original by F.L. Ramsey and D.W. Schafer
 
 Modifications by Daniel W Schafer, Jeannie Sifneos and Berwin A Turlach
 
-Maintainer: Berwin A Turlach \email{berwin@maths.uwa.edu.au}
+Maintainer: Berwin A Turlach \email{Berwin.Turlach@gmail.com}
 }
 \keyword{package}

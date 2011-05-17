@@ -15,7 +15,7 @@ Sleuth2Manual()
     Course in Methods of Data Analysis (2nd ed)}, Duxbury.
 }
 \author{
-  Berwin A Turlach \email{berwin@maths.uwa.edu.au}
+  Berwin A Turlach \email{Berwin.Turlach@gmail.com}
 }
 \examples{
 \dontrun{Sleuth2Manual()}
