@@ -5,7 +5,7 @@
 \description{
   Data from an experiment concerning the effects of intrinsic and
   extrinsic motivation on creativity.  Subjects with considerable
-  experience in creative writing were randomly assigned to on of two
+  experience in creative writing were randomly assigned to one of two
   treatment groups.
 }
 \usage{case0101}
