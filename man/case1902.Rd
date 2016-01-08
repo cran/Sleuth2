@@ -41,7 +41,9 @@ str(case1902)
 
 # Add smidgeon to denominator because of zeros
 empiricalodds <- with(case1902, Death/(Nodeath + .5))
-plot(empiricalodds ~ as.numeric(Aggravation), case1902, log="y", pch=ifelse(Victim=="White", 21, 19), xlab="Aggravation Level of the Murder", ylab="Odds of Death Penalty")
+plot(empiricalodds ~ as.numeric(Aggravation), case1902, log="y",
+  pch=ifelse(Victim=="White", 21, 19),
+  xlab="Aggravation Level of the Murder", ylab="Odds of Death Penalty")
 legend(3.8,.02,legend=c("White Victim Murderers","Black Victim Murderers"),pch=c(21,19))
 
 fitbig <- glm(cbind(Death,Nodeath) ~ Aggravation*Victim, case1902, family=binomial)
