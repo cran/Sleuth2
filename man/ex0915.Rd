@@ -22,7 +22,7 @@
 }
 \references{
   Ezekiel, M. and Fox, K.A. (1959). \emph{Methods of Correlation and
-    Regression Analysis}, John Wiley \& Sons, New York.
+    Regression Analysis}, John Wiley & Sons, New York.
 }
 \examples{
 str(ex0915)

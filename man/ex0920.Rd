@@ -24,7 +24,7 @@
     Course in Methods of Data Analysis (2nd ed)}, Duxbury.
 }
 \references{
-  \url{http://www.kentuckyderby.com}
+  \url{https://www.kentuckyderby.com/}
 }
 \examples{
 str(ex0920)

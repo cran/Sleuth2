@@ -1,8 +1,8 @@
 Package: Sleuth2
 Title: Data Sets from Ramsey and Schafer's "Statistical Sleuth (2nd
         Ed)"
-Version: 2.0-5
-Date: 2019-01-24
+Version: 2.0-7
+Date: 2024-01-24
 Author: Original by F.L. Ramsey and D.W. Schafer;
     modifications by Daniel W. Schafer, Jeannie Sifneos and Berwin
     A. Turlach; vignettes contributed by Nicholas Horton, Kate Aloisio
@@ -12,15 +12,15 @@ Description: Data sets from Ramsey, F.L. and Schafer, D.W. (2002), "The
     ed)", Duxbury. 
 Maintainer: Berwin A Turlach <Berwin.Turlach@gmail.com>
 LazyData: yes
-Depends: R (>= 3.5.0)
+Depends: R (>= 4.1.0)
 Suggests: lattice, knitr, MASS, agricolae, car, gmodels, leaps, mosaic
 VignetteBuilder: knitr
 License: GPL (>= 2)
-URL: http://r-forge.r-project.org/projects/sleuth2/
+URL: https://r-forge.r-project.org/projects/sleuth2/
 Repository: CRAN
 Repository/R-Forge/Project: sleuth2
-Repository/R-Forge/Revision: 77
-Repository/R-Forge/DateTimeStamp: 2019-01-24 05:54:13
-Date/Publication: 2019-01-24 08:30:11 UTC
+Repository/R-Forge/Revision: 81
+Repository/R-Forge/DateTimeStamp: 2024-01-24 06:25:40
+Date/Publication: 2024-01-25 12:20:06 UTC
 NeedsCompilation: no
-Packaged: 2019-01-24 06:48:57 UTC; rforge
+Packaged: 2024-01-24 06:46:47 UTC; rforge

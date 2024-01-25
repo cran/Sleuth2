@@ -1,10 +1,10 @@
 \name{ex1515}
 \alias{ex1515}
 \docType{data}
-\title{S\&P 500}
+\title{S&P 500}
 \description{
-  Data on the value of a \eqn{\$}{$}1 U.S. stock investment in 1871 at
-  the end of each year, based on the Standard and Poor (S\eqn{\&}{&}P)
+  Data on the value of a $1 U.S. stock investment in 1871 at
+  the end of each year, based on the Standard and Poor (S&P)
   500 Composite stock index.
 }
 \usage{ex1515}
@@ -12,7 +12,7 @@
   A data frame with 129 observations on the following 2 variables.
   \describe{
     \item{\code{Year}}{year}
-    \item{\code{SPReturn}}{S\eqn{\&}{&}P composite stock index (\eqn{\$}{$})}
+    \item{\code{SPReturn}}{S&P composite stock index ($)}
   }
 }
 \source{

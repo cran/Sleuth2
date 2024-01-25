@@ -26,7 +26,7 @@
     Course in Methods of Data Analysis (2nd ed)}, Duxbury.
 }
 \references{
-  Weisberg, S. (1985).  \emph{Applied Linear Regression}, John Wiley \&
+  Weisberg, S. (1985).  \emph{Applied Linear Regression}, John Wiley &
   Sons, New York, p. 231.
 }
 \examples{
